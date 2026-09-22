@@ -1,4 +1,4 @@
-name: adversarylabs/deps/yarn
+name: deps/yarn
 version: 0.0.12
 description: Reviews Yarn projects for unsafe configuration and incomplete dependency-resolution inputs.
 
